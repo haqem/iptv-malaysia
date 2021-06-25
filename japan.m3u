@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="nhkworldjapan" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japan" tvg-logo="https://i.postimg.cc/VLqWbKRW/1200px-NHK-World-svg.png" group-title="General", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8

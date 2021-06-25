@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-country="KR" tvg-language="Korea" tvg-logo="https://i.postimg.cc/K8mr7tpS/5-1.png" group-title="General", KBS World
+http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-country="KR" tvg-language="Korea" tvg-logo="https://i.postimg.cc/rmRSyjsW/Arirang-logo.png" group-title="General", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8

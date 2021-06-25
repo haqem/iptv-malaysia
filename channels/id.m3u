@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cnn indonesia" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="News", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/mrNtDRD4/GTV-logo-2017.png" group-title="General", GTV
+http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="trans7" tvg-name="Trans7" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News", Trans7
+http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="metrotv" tvg-name="MetroTV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/fbKRsK2T/image.png" group-title="News", MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="inews" tvg-name="iNews" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/rmVzRb0r/1280px-INews-TV-logo-svg.png" group-title="News", iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="mnc tv" tvg-name="MNC TV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/3NPK1bR9/image.png" group-title="General", MNC TV
+http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/yYZ6xBQG/image.png" group-title="General", RCTI
+http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="transtv" tvg-name="TransTV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/CxCFC7VH/image.png" group-title="General", TransTV
+http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvri nasional" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/pVghqs3g/image.png" group-title="General", TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
