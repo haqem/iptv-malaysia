@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="foxactionmovies" tvg-name="FOX Action Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/v833Pq98/1200px-Fox-Action-Movies-logo-svg.png" group-title="Movies",FOX Action Movies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foxcrime" tvg-name="FOX Crime" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/52Fg2frj/1280px-Fox-Crime-2017-svg.png" group-title="Movies",FOX Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foxfamilymovies" tvg-name="FOX Family Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/jj0XWGVc/1200px-Fox-Family-Movies-logo-svg.png" group-title="Movies",FOX Family Movies
+http://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="foxlife" tvg-name="FOX Life" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/pTPJCzLn/image.jpg" group-title="Movies",FOX Life
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="Movies",FOX Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/m2PNmbBV/hbo-logo-thumb800.png" group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
+
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/X7tKhTvW/1200px-HBO-Family-Asia-logo-svg.png" group-title="Movies",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/W1rmPXDk/HBOHits-ASIA.png" group-title="Movies",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO Signature" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/rF4Rdz86/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-id="redbyhbo" tvg-name="Red By HBO" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/K8yktFz1/red-by-hbo.png" group-title="Movies",Red By HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/zGSLjMb0/611-cinemax.png" group-title="Movies",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/0NkzHf7x/TLC-Logo-2016.png" group-title="General",TLC
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeographichd" tvg-name="National Geographic HD" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/GpX40yjD/Nat-Geo-HD.png" group-title="Documentary",National Geographic HD
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo Wild" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/gJ5rjbQk/1200px-Nat-Geo-Wild-logo.png" group-title="Documentary",Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+

@@ -13,7 +13,8 @@ You have a choices to shorlist your IPTV by country:
 - `https://haqem.github.io/iptv-malaysia/indonesia.m3u`All Indonesian channels.
 - `https://haqem.github.io/iptv-malaysia/singapore.m3u`All Singapore channels.
 - `https://haqem.github.io/iptv-malaysia/japan.m3u` All Japan channels.
-- `https://haqem.github.io/iptv-malaysia/korea.m3u` All Korea channels
+- `https://haqem.github.io/iptv-malaysia/korea.m3u` All Korea channels.
+- `https://haqem.github.io/iptv-malaysia/asia.m3u` All Asia channels.
 
 ## Resources
 

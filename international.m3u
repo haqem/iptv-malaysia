@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tvmcomedy" tvg-name="TVM Comedy" tvg-country="ID" tvg-language="Indonesia" tvg-logo="" group-title="", TVM Comedy
+http://cdn.tvmatic.net/comedy.m3u8
+
+#EXTINF:-1 tvg-id="tvmtiktok" tvg-name="TVM Tiktok" tvg-country="ID" tvg-language="Indonesia" tvg-logo="" group-title="", TVM Tiktok
+http://cdn.tvmatic.net/tiktok.m3u8
+
+#EXTINF:-1 tvg-id="tvmfunny" tvg-name="TVM Funny" tvg-country="ID" tvg-language="Indonesia" tvg-logo="" group-title="", TVM Funny
+http://cdn.tvmatic.net/funny.m3u8
+
+#EXTINF:-1 tvg-id="nick" tvg-name="NICK" tvg-country="USA" tvg-language="English" tvg-logo="https://i.postimg.cc/d0hY1ZYr/Nick-Pluto-TV-logo.jpg" group-title="Kids", NICK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId
+
+#EXTINF:-1 tvg-id="nickjr" tvg-name="NickJr" tvg-country="USA" tvg-language="English" tvg-logo="https://i.postimg.cc/rp7LtyVb/Nick-Jr-Pluto-TV.png" group-title="Kids", NickJr
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId
+
+#EXTINF:-1 tvg-id="&flixhd" tvg-name="&flix HD" tvg-country="IN" tvg-language="English" tvg-logo="https://i.postimg.cc/63CF2d12/image.png" group-title="General", &flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="&privehd" tvg-name="&prive HD" tvg-country="IN" tvg-language="English" tvg-logo="https://i.postimg.cc/28995c89/prive.png" group-title="General", &prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="booglebollywood" tvg-name="Boogle Bollywood" tvg-country="IN" tvg-language="English" tvg-logo="https://i.postimg.cc/NjyJ26Ks/Boogle-Bollywood.jpg" group-title="General", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
