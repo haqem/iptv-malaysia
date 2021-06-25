@@ -11,7 +11,7 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png" group-title="Sports",Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="Kids",Astro Ceria
+#EXTINF:-1 tvg-id="Ceria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="Kids",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="Islamic",Astro Oasis
@@ -53,11 +53,17 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="Astro Hua Hee Dai HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="General",Astro Hua Hee Dai HD
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 
+#EXTINF:-1 tvg-id="iqiyi.my" tvg-name="iQiYi" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.postimg.cc/gjxXHq1s/300-300.png" group-title="General",iQiYi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="General",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="General",Astro Vaanavil SD
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+
+#EXTINF:-1 tvg-id="Ohk.my" tvg-name="Ohk" tvg-country="MY" tvg-language="Korea" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/394_300.png" group-title="General",Oh!k
+http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cnn indonesia" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="News",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
