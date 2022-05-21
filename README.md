@@ -1,4 +1,4 @@
-# iptv-malaysia
+# mifnTvMy
 
 Asian shortlist IPTV channels from all over the world.
 
