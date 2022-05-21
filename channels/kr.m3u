@@ -1,5 +1,5 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" #EXTM3U
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-country="KR" tvg-language="Korea" tvg-logo="https://i.postimg.cc/K8mr7tpS/5-1.png" group-title="General", KBS World
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
