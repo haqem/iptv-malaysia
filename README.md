@@ -1,4 +1,4 @@
-# iptv-malaysia
+# mifnTvMy
 
 Asian shortlist IPTV channels from all over the world.
 
@@ -6,15 +6,15 @@ Internet Protocol television (IPTV) is the delivery of television content over I
 
 ## Usage
 
-To watch IPTV you need to copy this link `https://haqem.github.io/iptv-malaysia/index.m3u` and paste at your M3U Player. *will update later.
+To watch IPTV you need to copy this link `https://ejunds.github.io/mifnTvMy/index.m3u` and paste at your M3U Player. *will update later.
 
 You have a choices to shorlist your IPTV by country:
-- `https://haqem.github.io/iptv-malaysia/malaysia.m3u` All Malaysian channels.
-- `https://haqem.github.io/iptv-malaysia/indonesia.m3u`All Indonesian channels.
-- `https://haqem.github.io/iptv-malaysia/singapore.m3u`All Singapore channels.
-- `https://haqem.github.io/iptv-malaysia/japan.m3u` All Japan channels.
-- `https://haqem.github.io/iptv-malaysia/korea.m3u` All Korea channels.
-- `https://haqem.github.io/iptv-malaysia/asia.m3u` All Asia channels.
+- `https://ejunds.github.io/mifnTvMy/malaysia.m3u` All Malaysian channels.
+- `https://ejunds.github.io/mifnTvMy/indonesia.m3u`All Indonesian channels.
+- `https://ejunds.github.io/mifnTvMy/singapore.m3u`All Singapore channels.
+- `https://ejunds.github.io/mifnTvMy/japan.m3u`All Japam channel.
+- `https://ejunds.github.io/mifnTvMy/korea.m3u` All Korea channels.
+- `https://ejunds.github.io/mifnTvMy/asia.m3u` All Asia channels.
 
 ## Resources
 

@@ -24,4 +24,4 @@ http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp
 http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvri nasional" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/pVghqs3g/image.png" group-title="General", TVRI Nasional
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u

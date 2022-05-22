@@ -39,5 +39,5 @@ http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo Wild" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/gJ5rjbQk/1200px-Nat-Geo-Wild-logo.png" group-title="Documentary",Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u
 

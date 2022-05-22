@@ -57,4 +57,4 @@ http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="General",Astro Vaanavil SD
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u
