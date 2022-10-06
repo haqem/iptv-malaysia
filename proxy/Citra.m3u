@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="C1" tvg-name="C1" tvg-country="Asia" tvg-language="English" tvg-logo="" group-title="",Citra
+http://linears-playback.astro.com.my/vsg/41KpsugQfOu7_yK-Gw_L_F0II2sPPjimZVpJrFFEeuD_o=xMS7/hls-ts-fp/jitp-linearwm/2700/id3-168-80/video-cif-stream-1.m3u8
+
+#EXTINF:-1 tvg-id="C2" tvg-name="C2" tvg-country="Asia" tvg-language="English" tvg-logo="" group-title="",Citra1
+http://linears-playback.astro.com.my/vsg/41KpsugQfOu7_yK-Gw_L_F0II2sPPjimZVpJrFFEeuD_o=xMS7/hls-ts-fp/jitp-linearwm/2700/default_ott.m3u8
+
+#EXTINF:-1 tvg-id="C3" tvg-name="C3" tvg-country="Asia" tvg-language="English" tvg-logo="" group-title="",Citra2
+http://linears-playback.astro.com.my/vsg/41KpsugQfOu7_yK-Gw_L_F0II2sPPjimZVpJrFFEeuD_o=xMS7/hls-ts-fp/jitp-linearwm/2700/default_ott.m3u8
+
+#EXTINF:-1 tvg-id="C4" tvg-name="C4" tvg-country="Asia" tvg-language="English" tvg-logo="" group-title="",Citra3
+http://linears-playback.astro.com.my/vsg/41KpsugQfOu7_yK-Gw_L_F0II2sPPjimZVpJrFFEeuD_o=xMS7/hls-ts-fp/jitp-linearwm/2700/id3-168-80/video-cif-stream-4.m3u8
+
+#EXTINF:-1 tvg-id="C5" tvg-name="C5" tvg-country="Asia" tvg-language="English" tvg-logo="" group-title="",Citra4
+http://linears-playback.astro.com.my/vsg/41KpsugQfOu7_yK-Gw_L_F0II2sPPjimZVpJrFFEeuD_o=xMS7/hls-ts-fp/jitp-linearwm/2700/id3-168-80/5d4viijr4jkxpgt5cybibbjz2ayf99kv-ks7mn3j8nnaaaaaa-video-cif-stream-4-149853029444508.ts
+
